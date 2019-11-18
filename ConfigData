@@ -1,4 +1,0 @@
-ConfigData
-  spring-cloud-config-client.yml
-    lucky-word = "Exito"
-  
