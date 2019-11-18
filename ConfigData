@@ -1,2 +1,4 @@
-spring-cloud-config-client.yml
+ConfigData
+  spring-cloud-config-client.yml
+    lucky-word = "Exito"
   
